@@ -1,9 +1,3 @@
-# Steaming IP Camera Nodejs
-### Donate me (if it helpful)
-[![](https://img.shields.io/badge/%24-donate-green.svg)](https://github.com/QingWei-Li/donate)<br/>
-Bitcoin (BTC): bc1qtmvj9670pxrrdhqg98zge6qkw3kr590r96kq5p <br/>
-Ethereum (ETH) or USDT (ETH Network) or USDC (ETH Network): 0x16f2b8e63859f5665023D33d65DBcba189e4A9d4
-
 Open source project of real time streaming (~30 fps) IP/Network security camera on web browser using NodeJS
 
 ![Content of web page analyzation by Google](https://lh3.googleusercontent.com/71kkGWwhwsM8tGXdrM1_wdpKlJS0Lqfta_f7pT0UBwaqRHdNgac_LkoEmMjBHsIpXBYaRThhNatL712anNZsEbTVJ1UEfiQMzJLdSvxquYOmH9ilDvQ_1J-XIR-4kjreB7ctyfIp_Z5oriIaAqTK8DvIFbadIHqyzaKjVBrCgQpnjeUZ_gDxBR5gw2H5l6TjNwvhG3dV1j3i_PZP5abj4lgDgJmNbB_Za9Gjejr4Ba1l4CEop4bqOkiGqS5OFjhp_XWCpngg5hhOZq7WLsLVd6w865-Cb1AFfuwoOiRTjUnoG9Nrpheuf-VxsOXaPuCgWvnwDi3BmgUujUXLvokfxcqQYY1SbAxxAXlyp5n22LyStthiolF9X2_1GTF1Lc_qNWJySv2BUAepMp_hQiyq1-ALMAfwrxCb4ONhVLBcypoZ9WfjbRHC-tRyr4rcLZ2KfPZyI4twAD11HVg2zvBWjJ5OccBPA3OFyxTwU9dA61WQvygJJFRugEm6fw194U87L46V5zgZ_R_Fb0ttjbFFLsDWRPJCU5VOdpjC27qTexpH6WHxgwx84qPbDc5v_TAopuWEHuj88zv3_8BXeU6NLr3miEkGz1_wjy6UXKOr9HJO8xUUHMuTuvYMmsR9QhSanx0jibE1l3PPpFmPZcIcQy2GbqncrT6j4jWNQeZAiyZlIpwv7oUmMMvxXrdY11MnnvlVFN4Ov3JxX3jf_bg=w1187-h667-no)
